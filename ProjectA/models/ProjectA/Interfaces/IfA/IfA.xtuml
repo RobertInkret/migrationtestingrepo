@@ -1,4 +1,4 @@
--- BP 7.1 content: Interface syschar: 3 persistence-version: 7.1.5
+-- BP 7.1.6 content: Interface syschar: 3 persistence-version: 7.1.6
 
 INSERT INTO C_I
 	VALUES ("542d764a-29f0-4163-980a-1111968c9541",

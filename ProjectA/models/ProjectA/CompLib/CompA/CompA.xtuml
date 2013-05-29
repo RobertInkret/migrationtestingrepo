@@ -1,4 +1,4 @@
--- BP 7.1 content: Component syschar: 3 persistence-version: 7.1.5
+-- BP 7.1.6 content: Component syschar: 3 persistence-version: 7.1.6
 
 INSERT INTO C_C
 	VALUES ("80ca94b3-618e-4089-a5db-af4cd614f243",

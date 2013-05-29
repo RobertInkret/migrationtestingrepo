@@ -1,4 +1,4 @@
--- BP 7.1 content: Package syschar: 3 persistence-version: 7.1.5
+-- BP 7.1.6 content: Package syschar: 3 persistence-version: 7.1.6
 
 INSERT INTO EP_PKG
 	VALUES ("2a1fb5b5-cd81-48e3-a413-3c575ca076ab",
@@ -549,7 +549,7 @@ INSERT INTO GD_GE
 	"22ba1205-6a78-4d64-973f-2416f1286e75",
 	93,
 	0,
-	'ProjectA::CompLib::CompC::Port1::Unnamed Interface');
+	'ProjectA::CompLib::CompC::Port1::IfA');
 INSERT INTO GD_CON
 	VALUES ("c303505d-bcc0-4cec-acaa-150ceb06c4d7",
 	"00000000-0000-0000-0000-000000000000");
